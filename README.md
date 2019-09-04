@@ -6,3 +6,4 @@ Rotation is done with both a simple rotation method (which causes aliasing) and 
 When the screen is clicked, an image from the desktop is projected over the board between the QR codes.
 
 (Full Unity project is not included, just scripts that control saving and loading the images plus the main scene)
+Spring 2019 for OVRAS Caltech, Github updated Summer 2019 but files were not changed.
